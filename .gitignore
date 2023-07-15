@@ -1,2 +1,4 @@
 task-manager/node_modules
 task-manager/.env
+store-api/node_modules
+store-api/.env
