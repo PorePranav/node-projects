@@ -2,7 +2,6 @@ require("dotenv").config();
 const connectDB = require("./db/connect");
 const router = require("./routes/products");
 //async errors
-require("express-async-errors");
 
 const express = require("express");
 const app = express();
